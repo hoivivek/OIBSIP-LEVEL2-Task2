@@ -1,0 +1,39 @@
+body{
+  background-color: turquoise;
+}
+
+#d1{
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+#d2{
+  display: block;
+margin-left: 42%;
+width: 30%;
+}
+
+#d3{
+  padding: 25px;
+  background-color:paleturquoise;
+  margin: 10px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-size: medium;
+}
+
+#p1{
+  color:coral;
+}
+
+#p2{
+  color: darkgoldenrod;
+}
+
+#p3{
+  color: rgb(43, 0, 214);
+}
+
+#p4{
+color:darkred;
+}
